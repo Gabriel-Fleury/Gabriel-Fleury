@@ -1,4 +1,4 @@
-<h2 align="left">Hello World😄! My name is Gabriel Fleury Martins and I am studying Systems Analysis and Development at the Pontifical Catholic University. Currently, I am focused on web development and hope to one day become a great developer.🧑🏽‍💻</h2>
+<h2 align="left">Hello World😄! Meu nome é Gabriel Fleury Martins e estou cursando Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica. Atualmente, meu foco é desenvolvimento web e espero que cada dia eu melhore minhas habilidades!🧑🏽‍💻</h2>
 
 ###
 
